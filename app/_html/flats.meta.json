@@ -1,0 +1,13 @@
+{
+  "title": "Springs | Residences",
+  "description": "All Springs residences are filled with&amp;nbsp;light and air, featuring interiors finished with&amp;nbsp;natural premium materials.",
+  "keywords": "",
+  "canonical": "flats.html",
+  "ogTitle": "Springs | Residences",
+  "ogDescription": "All Springs residences are filled with&amp;nbsp;light and air, featuring interiors finished with&amp;nbsp;natural premium materials.",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/flats",
+  "stylesheets": [
+    "/assets/stylesheets/flats.css"
+  ]
+}

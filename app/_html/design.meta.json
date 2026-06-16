@@ -1,0 +1,13 @@
+{
+  "title": "Springs | Design and architecture of&nbsp;Springs residential complex",
+  "description": "Apartments in&amp;nbsp;a&amp;nbsp;premium-class residential complex",
+  "keywords": "",
+  "canonical": "design.html",
+  "ogTitle": "Springs | Design and architecture of&amp;nbsp;Springs residential complex",
+  "ogDescription": "Apartments in&amp;nbsp;a&amp;nbsp;premium-class residential complex",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/design",
+  "stylesheets": [
+    "/assets/stylesheets/design.css"
+  ]
+}

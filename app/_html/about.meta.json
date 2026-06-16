@@ -1,0 +1,13 @@
+{
+  "title": "Springs | About",
+  "description": "Panoramic apartments, townhouses with&amp;nbsp;patios and two-level penthouses with&amp;nbsp;terraces near&amp;nbsp;a&amp;nbsp;park",
+  "keywords": "",
+  "canonical": "about.html",
+  "ogTitle": "Springs | About",
+  "ogDescription": "Panoramic apartments, townhouses with&amp;nbsp;patios and two-level penthouses with&amp;nbsp;terraces near&amp;nbsp;a&amp;nbsp;park",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/about",
+  "stylesheets": [
+    "/assets/stylesheets/about.css"
+  ]
+}

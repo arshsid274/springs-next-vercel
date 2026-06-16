@@ -1,0 +1,46 @@
+[
+  {
+    "kind": "inline",
+    "code": "if ((document.cookie.indexOf('cookieConsentStatus=1') !== -1 || document.cookie.indexOf('cookieConsentStatus=0') !== -1) && document.querySelector('#cookie-consent')) {\n            document.querySelector('#cookie-consent').classList.add('is-hidden')\n        } else {\n            document.documentElement.classList.add('with-cookie-consent');\n        }",
+    "attrs": {}
+  },
+  {
+    "kind": "src",
+    "src": "assets/javascripts/browser-message/browser-message.js",
+    "attrs": {
+      "fetchpriority": "low",
+      "async": "",
+      "src": "assets/javascripts/browser-message/browser-message.js"
+    }
+  },
+  {
+    "kind": "src",
+    "src": "assets/javascripts/shared.js",
+    "attrs": {
+      "fetchpriority": "low",
+      "src": "assets/javascripts/shared.js"
+    }
+  },
+  {
+    "kind": "src",
+    "src": "assets/javascripts/gallery.js",
+    "attrs": {
+      "src": "assets/javascripts/gallery.js"
+    }
+  },
+  {
+    "kind": "src",
+    "src": "assets/javascripts/tour.js",
+    "attrs": {
+      "src": "assets/javascripts/tour.js"
+    }
+  },
+  {
+    "kind": "src",
+    "src": "assets/pano/tour.js",
+    "attrs": {
+      "src": "assets/pano/tour.js",
+      "async": ""
+    }
+  }
+]

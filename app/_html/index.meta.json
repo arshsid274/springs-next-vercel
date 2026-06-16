@@ -1,0 +1,13 @@
+{
+  "title": "Springs | Homepage",
+  "description": "Wellness-residences",
+  "keywords": "",
+  "canonical": "index.html",
+  "ogTitle": "Springs | Homepage",
+  "ogDescription": "Wellness-residences",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/",
+  "stylesheets": [
+    "/assets/stylesheets/landing.css"
+  ]
+}

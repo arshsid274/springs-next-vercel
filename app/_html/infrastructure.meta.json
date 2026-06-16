@@ -1,0 +1,13 @@
+{
+  "title": "Springs | Infrastructure and amenities",
+  "description": "Luxury residences with&amp;nbsp;wellness amenities",
+  "keywords": "",
+  "canonical": "infrastructure.html",
+  "ogTitle": "Springs | Infrastructure and amenities",
+  "ogDescription": "Luxury residences with&amp;nbsp;wellness amenities",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/infrastructure",
+  "stylesheets": [
+    "/assets/stylesheets/infrastructure.css"
+  ]
+}

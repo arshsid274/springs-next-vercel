@@ -1,0 +1,14 @@
+{
+  "title": "Springs | Residences",
+  "description": "Choose your residence",
+  "keywords": "",
+  "canonical": "visual-search.html",
+  "ogTitle": "Springs | Residences",
+  "ogDescription": "Choose your residence",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/visual-search",
+  "stylesheets": [
+    "/assets/stylesheets/visual-search.css",
+    "/assets/stylesheets/tour.css"
+  ]
+}

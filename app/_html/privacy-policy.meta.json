@@ -1,0 +1,13 @@
+{
+  "title": "Springs | Privacy policy",
+  "description": "Welness-residences",
+  "keywords": "",
+  "canonical": "privacy-policy.html",
+  "ogTitle": "Springs | Privacy policy",
+  "ogDescription": "Welness-residences",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/privacy-policy",
+  "stylesheets": [
+    "/assets/stylesheets/privacy-policy.css"
+  ]
+}

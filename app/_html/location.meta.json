@@ -1,0 +1,14 @@
+{
+  "title": "Springs | Location",
+  "description": "Luxury residences with&amp;nbsp;wellness amenities",
+  "keywords": "",
+  "canonical": "location.html",
+  "ogTitle": "Springs | Location",
+  "ogDescription": "Luxury residences with&amp;nbsp;wellness amenities",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/location",
+  "stylesheets": [
+    "/assets/stylesheets/location.css",
+    "/assets/stylesheets/tour.css"
+  ]
+}

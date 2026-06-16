@@ -1,0 +1,14 @@
+{
+  "title": "Springs | Photos of&nbsp;the&nbsp;Springs residential complex",
+  "description": "Designer interiors in&amp;nbsp;a&amp;nbsp;premium residential complex with&amp;nbsp;developed infrastructure and a&amp;nbsp;private courtyard garden",
+  "keywords": "",
+  "canonical": "gallery.html",
+  "ogTitle": "Springs | Photos of&amp;nbsp;the&amp;nbsp;Springs residential complex",
+  "ogDescription": "Designer interiors in&amp;nbsp;a&amp;nbsp;premium residential complex with&amp;nbsp;developed infrastructure and a&amp;nbsp;private courtyard garden",
+  "ogImage": "assets/manifest/og.jpg",
+  "ogUrl": "https://springs.estate/gallery",
+  "stylesheets": [
+    "/assets/stylesheets/gallery.css",
+    "/assets/stylesheets/tour.css"
+  ]
+}
