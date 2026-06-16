@@ -17,13 +17,18 @@ export default function PageScripts({ scripts, slug }: { scripts: ExtractedScrip
         const strategy = s.attrs.async !== undefined ? 'lazyOnload' : 'afterInteractive';
         if (s.kind === 'src') {
           const src = normalizeSrc(s.src);
+          // fetchpriority isn't in next/script's ScriptProps type, but it's a
+          // valid DOM attribute — pass it through via spread so it reaches the
+          // rendered <script> without tripping the prop-name type check.
+          const fetchPriority = s.attrs.fetchpriority as 'high' | 'low' | 'auto' | undefined;
+          const extraProps = (fetchPriority ? { fetchPriority } : {}) as Record<string, unknown>;
           return (
             <Script
               key={id}
               id={id}
               src={src}
               strategy={strategy}
-              fetchPriority={(s.attrs.fetchpriority as 'high' | 'low' | 'auto' | undefined) ?? undefined}
+              {...extraProps}
             />
           );
         }
